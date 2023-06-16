@@ -20,7 +20,7 @@ class gpt_dalle():
     def __init__(self, n, idea):
         self._n = n
         self._idea = idea
-        self._key = "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"
+        self._key = "132"
     
     def prompt_gpt(self):
         
